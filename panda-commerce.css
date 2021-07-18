@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo-style{
+    width: 100px;
+}
+.search{
+    margin-left:56px ;
+    width: 508.94px;
+height: 48px;
+margin-right: 56px;
+background: #F1F1F1;
+}
+.navigation{
+    margin-right: 156px;
+}
+
+.navigation a{
+    margin-left: 24px;
+}
+.search-icon{
+    margin-left:-30px ;
+    top: 16px;
+    right: 13px;
+    position: relative;
+    color: #BABABA;
+}
+
+/* ================
+carousel
+==================== */
+.main-section-1{
+background-color: #FEEAE9;
+
+}
+
+.btn{
+   background-color: #FF2278;
+   color: #fff;
+}
+
+.h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+.p{
+    color: rgb(110, 104, 104);
+}
+.price{
+    color: #FF2278;
+    font-weight: 700;
+}
