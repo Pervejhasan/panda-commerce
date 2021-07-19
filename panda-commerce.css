@@ -9,10 +9,10 @@
     width: 100px;
 }
 .search{
-    margin-left:56px ;
+    margin-left:20px ;
     width: 508.94px;
 height: 48px;
-margin-right: 56px;
+margin-right: 26px;
 background: #F1F1F1;
 }
 .navigation{
@@ -20,7 +20,7 @@ background: #F1F1F1;
 }
 
 .navigation a{
-    margin-left: 24px;
+    margin-left: 10px;
 }
 .search-icon{
     margin-left:-30px ;
@@ -48,7 +48,7 @@ background-color: #FEEAE9;
     font-weight: bold;
 }
 .p{
-    color: rgb(110, 104, 104);
+    color: #4E4E4E;
 }
 .price{
     color: #FF2278;
@@ -82,4 +82,114 @@ height: 501px;
 .card-size-2{
     width: 360px;
 height: 584px;
+}
+
+
+
+.fotter{
+margin-top:71px ;
+background-color:#FFF2F1 ;
+width: 1212px;
+height: 455px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.search-button{
+    background-color: #FF2278;
+    color: #fff;
+    border: none;
+}
+
+.input-email{
+    width: 683px;
+    height: 73px;
+
+}
+
+@media only screen and (max-width:376px) {
+
+.nav{
+    align-items: center;
+}
+ .logo-style{
+    width: 70px;
+    margin-top: 9px;
+   
+}
+.navbar-toggler{
+    margin-left: 16px;
+}
+.search{
+    
+    width:150px;
+height:25px;
+margin-right:20px;
+background-color: red;
+
+
+}
+.search-icon{
+    margin-left:-25px ;
+    top: 4px;
+    right: 13px;
+    position: relative;
+    
+}
+.navigation {
+    margin-right: 25px;
+}
+.head-phone{
+    margin-top: 20px;
+}
+.tv{
+    margin-top: 20px; 
+}
+.x-box{
+    margin-top:-10px;
+}
+.main-section-1 h2{
+    text-align: center;
+
+}
+.top-margin{
+    margin-top: 10px;
+}
+.img-size{
+    width: 120px;
+    height: 120px;
+}
+
+.main-section-2 h2{
+text-align: center;
+}
+
+ /* .main-section-2{
+    height: 3272px;
+    width: 100%;
+}  */
+
+ .fotter{
+    width: 100%;
+    height:280px;
+} 
+
+.input-email {
+    width: 270px;
+    height: 60px;
+}
+.card-size{
+    width:100%;
+height: 480px;
+margin-top: 10px;
+
+}
+
+.card-size-2{
+    width:100%;
+height: 550px;
+margin-top: 10px;
+}
+
+
 }
