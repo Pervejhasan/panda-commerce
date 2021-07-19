@@ -172,6 +172,7 @@ text-align: center;
  .fotter{
     width: 100%;
     height:280px;
+    
 } 
 
 .input-email {
@@ -179,17 +180,19 @@ text-align: center;
     height: 60px;
 }
 .card-size{
-    width:100%;
+    width:92%;
 height: 480px;
 margin-top: 10px;
 
 }
 
 .card-size-2{
-    width:100%;
+    width:88%;
 height: 550px;
 margin-top: 10px;
 }
-
+.width-setting{
+    margin-left: -13px;
+}
 
 }
