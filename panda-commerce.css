@@ -38,7 +38,7 @@ background-color: #FEEAE9;
 
 }
 
-.btn{
+.btn-style{
    background-color: #FF2278;
    color: #fff;
 }
@@ -53,4 +53,33 @@ background-color: #FEEAE9;
 .price{
     color: #FF2278;
     font-weight: 700;
+}
+.color-1{
+    background-color: #FFA82F;
+}
+.color-2{
+    background-color:#FF3081;
+}
+.color-3{
+    background-color: #414DFC;
+}
+
+/* .padding-control{
+box-sizing: border-box;
+} */
+
+.main-section-2{
+    background-color: #F4F4F4;
+}
+
+
+
+.card-size{
+    width: 360px;
+height: 501px;
+}
+
+.card-size-2{
+    width: 360px;
+height: 584px;
 }
